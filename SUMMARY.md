@@ -9,3 +9,8 @@
 * [Инженерное мышление и инженерная подготовка](education/inzhenernoe-myshlenie-i-inzhenernaya-podgotovka/README.md)
   * [Модуль 1](education/inzhenernoe-myshlenie-i-inzhenernaya-podgotovka/modul-1/README.md)
     * [Представление о схемах](education/inzhenernoe-myshlenie-i-inzhenernaya-podgotovka/modul-1/predstavlenie-o-skhemakh.md)
+
+## 🙃 Crazy
+
+* [Опыт схождения с ума](crazy/opyt-skhozhdeniya-s-uma/README.md)
+  * [Дополненная реальность](crazy/opyt-skhozhdeniya-s-uma/dopolnennaya-realnost.md)
