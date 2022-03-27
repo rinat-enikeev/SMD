@@ -12,5 +12,7 @@
 
 ## 🙃 Crazy
 
+* [Поппер и Щедровицкий](crazy/popper-i-shedrovickii/README.md)
+  * [Номинализм и эссенциализм](crazy/popper-i-shedrovickii/nominalizm-i-essencializm.md)
 * [Опыт схождения с ума](crazy/opyt-skhozhdeniya-s-uma/README.md)
   * [Дополненная реальность](crazy/opyt-skhozhdeniya-s-uma/dopolnennaya-realnost.md)
