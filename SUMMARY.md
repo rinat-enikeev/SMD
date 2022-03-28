@@ -9,6 +9,7 @@
 * [Инженерное мышление и инженерная подготовка](education/inzhenernoe-myshlenie-i-inzhenernaya-podgotovka/README.md)
   * [Модуль 1](education/inzhenernoe-myshlenie-i-inzhenernaya-podgotovka/modul-1/README.md)
     * [Представление о схемах](education/inzhenernoe-myshlenie-i-inzhenernaya-podgotovka/modul-1/predstavlenie-o-skhemakh.md)
+    * [ВДиТК и СРТ](education/inzhenernoe-myshlenie-i-inzhenernaya-podgotovka/modul-1/vditk-i-srt.md)
 
 ## 🙃 Crazy
 
