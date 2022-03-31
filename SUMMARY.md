@@ -10,6 +10,8 @@
   * [Модуль 1](education/inzhenernoe-myshlenie-i-inzhenernaya-podgotovka/modul-1/README.md)
     * [Представление о схемах](education/inzhenernoe-myshlenie-i-inzhenernaya-podgotovka/modul-1/predstavlenie-o-skhemakh.md)
     * [ВДиТК и СРТ](education/inzhenernoe-myshlenie-i-inzhenernaya-podgotovka/modul-1/vditk-i-srt.md)
+    * [Кто оплачивает](education/inzhenernoe-myshlenie-i-inzhenernaya-podgotovka/modul-1/kto-oplachivaet.md)
+    * [Промежуточные итоги](education/inzhenernoe-myshlenie-i-inzhenernaya-podgotovka/modul-1/promezhutochnye-itogi.md)
 
 ## 🙃 Crazy
 
