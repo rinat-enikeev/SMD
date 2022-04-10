@@ -15,6 +15,9 @@
   * [Модуль 2](education/inzhenernoe-myshlenie-i-inzhenernaya-podgotovka/modul-2/README.md)
     * ["Нулевая" промышленная революция](education/inzhenernoe-myshlenie-i-inzhenernaya-podgotovka/modul-2/nulevaya-promyshlennaya-revolyuciya.md)
     * [Функция инженерной мыследеятельности](education/inzhenernoe-myshlenie-i-inzhenernaya-podgotovka/modul-2/funkciya-inzhenernoi-mysledeyatelnosti.md)
+  * [Модуль 3](education/inzhenernoe-myshlenie-i-inzhenernaya-podgotovka/modul-3/README.md)
+    * [Проблема исторической причинности и "шаги" развития](education/inzhenernoe-myshlenie-i-inzhenernaya-podgotovka/modul-3/problema-istoricheskoi-prichinnosti-i-shagi-razvitiya.md)
+    * [Неучтенный фактор развития](education/inzhenernoe-myshlenie-i-inzhenernaya-podgotovka/modul-3/neuchtennyi-faktor-razvitiya.md)
 
 ## 🙃 Crazy
 
