@@ -12,6 +12,9 @@
     * [ВДиТК и СРТ](education/inzhenernoe-myshlenie-i-inzhenernaya-podgotovka/modul-1/vditk-i-srt.md)
     * [Кто оплачивает](education/inzhenernoe-myshlenie-i-inzhenernaya-podgotovka/modul-1/kto-oplachivaet.md)
     * [Промежуточные итоги](education/inzhenernoe-myshlenie-i-inzhenernaya-podgotovka/modul-1/promezhutochnye-itogi.md)
+  * [Модуль 2](education/inzhenernoe-myshlenie-i-inzhenernaya-podgotovka/modul-2/README.md)
+    * ["Нулевая" промышленная революция](education/inzhenernoe-myshlenie-i-inzhenernaya-podgotovka/modul-2/nulevaya-promyshlennaya-revolyuciya.md)
+    * [Функция инженерной мыследеятельности](education/inzhenernoe-myshlenie-i-inzhenernaya-podgotovka/modul-2/funkciya-inzhenernoi-mysledeyatelnosti.md)
 
 ## 🙃 Crazy
 
